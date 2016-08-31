@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Open":"Odprto","Close":"Zapri","Drag to re-order":"Preuredi z vle\u010denjem","Please wait...":"Prosimo po\u010dakajte...","closed":"zaprto","Home":"Domov"}},"pluralFormula":{"1":0,"2":1,"3":2,"4":2,"101":0,"102":1,"103":2,"104":2,"default":3}};

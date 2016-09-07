@@ -1,6 +1,6 @@
 <?php
 
-/* core/themes/classy/templates/content/page-title.html.twig */
+/* @classy/content/page-title.html.twig */
 class __TwigTemplate_2432236aafc7769e86048f3d3c465ad6882c5b3db392a321835b85545c8afce4 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
@@ -61,7 +61,7 @@ class __TwigTemplate_2432236aafc7769e86048f3d3c465ad6882c5b3db392a321835b85545c8
 
     public function getTemplateName()
     {
-        return "core/themes/classy/templates/content/page-title.html.twig";
+        return "@classy/content/page-title.html.twig";
     }
 
     public function isTraitable()

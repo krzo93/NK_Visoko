@@ -1,9 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="134abc24-1356-4068-92da-25d6d7bebef6" name="Default" comment="" />
+    <list default="true" id="134abc24-1356-4068-92da-25d6d7bebef6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--local-actions-block.html.twig_5d3bdec4ffffc8eda5c75283b443582d764df635d55d4e8a05cdc50dd545024f/2941915b74a2e2771f6be2a2151daecc66e5de8da009b889a26c6cc249d3bd34.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--local-tasks-block.html.twig_187fad71e99045a5d42595e5b70b73724ed0c30552891f59ceff81aeadd69c0c/7cbf82128d058ddd3d01f0d5aeeba198a2bc851d6a096450b1b5e2dd240e2cc4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--search-form-block.html.twig_f609cdf03b969b47d4267e3d33d34f65dca3b87431f755f3170d9abf0c791369/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--search-form-block.html.twig_f609cdf03b969b47d4267e3d33d34f65dca3b87431f755f3170d9abf0c791369/fead82c15edb5598e3e735a403c860ec5b3e651ac94f1be177c19235cfd49ac8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--search-form-block.html.twig_ffcd246a54a37f7beea945a328cd8e117d04c0f973b2f9eb9fcf265d6a11c001/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--search-form-block.html.twig_ffcd246a54a37f7beea945a328cd8e117d04c0f973b2f9eb9fcf265d6a11c001/2063ff2930581fdfba7a093acc1f7869e1b358a1a56ae87f63e9cee70ac1e3f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--system-branding-block.html.twig_341ae9bf25f6fe34700c095bf22e29296350d96c88b359f4487e5f453bcbc284/434ae72d6b51561178b2cb0411cb22b6c17180e7ff9e382b02c97d0549598817.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--system-menu-block.html.twig_397abb2bfccef9345488b2d4661cd4e229c7664dedafe8e5ba6e910fa7b260aa/849bdbcef28056295ea91507d6fdc7cdbc688053eae05b1b21f2e09d18f3880c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--system-menu-block.html.twig_975eebe71e926fbb4e347d30260b541054bfb62b87b1b7f494ffe99c8fd8b797/b44d1c480c91bed327506b013644ca7377c1dd067d4e2342f0febedf297ba0a4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block--system-messages-block.html.twig_05cf3038a2d7b4bdde801b21ad7758a41df10b512b6e27fccf52596568f61bed/641cd4a4dfe687ab45d0ec0c514501a959de7f34d2430f45ec445d75ca02a667.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block.html.twig_349f12e10a88862a80883dc857b6c37f52abd5d726279ec21c6b343985eab587/7aedd257d95ac042133063e4ca0dbe7a1c8500d5a8ea26345899a8a6c63703e5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block.html.twig_48fc8a09700e00fddf71dace824007c40663fc78aeaa792a039ce0d0fb0a6ec7/92bd169ee471f9e969b504b5402354392976261de9503cf6bf7799531137b4d7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block.html.twig_4947d4a7b29845577e52719b63fd59d6ef65c9d4b6ef39e5333d9f89c2f8c38c/1e34d644b43f063737efa2391e67f78f0672d114e757f1579bf62eaa161fafb2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block.html.twig_85585925d6ab7683d35d3adf8d40b9ec28c80ede01b66fb435e7aada7853dcc0/f5d6cfe539c4247efae9cee45e37bd0ce3f3bfa02d5fcd7b6d801a735b0c88ac.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_block.html.twig_87cc8d94c328795e2b853b8b8db7e93b2b2fff725dc26fc10d026a4a7a60f22f/06abfe08ac22d73c9196732f8f48487461e26cc99af063ec3e6ec2feac2ad04d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_breadcrumb.html.twig_2fc7770e385e461e031399233a5f4c75ca6eef6aebf48f7a6fcefc6e185e2cf9/d7a26bca4e76e82ab44f889d4cd3f34d8c360f491aaefdd604a2015f36f1cde2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_container.html.twig_508eddd4bbf6dd1a8de852bd7e7820e16f4437fef746a6a37849292a885c9fbd/00b304877a4a3e993fd88de01d80210ec0a57a56cb68bf147ab1020f82cecfcc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_details.html.twig_cd03c3fe1ed40ed01bf49f5ce85e6868350986a3aef8352435ae124eca074dd9/b00b949c5c4e5cf7c90c059699d68c94d281c07829fa28d46e64bd0becc50084.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_dropbutton-wrapper.html.twig_77f594566afddf86e70ecb629d63cda2dd0d04439d961d479a8bcbaf8d6c997d/8fd2c994299911c5aab9d25fb4ec03ba42f5a060f464262880a89bd6bf75900a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_feed-icon.html.twig_18b5a7c4d1b47d19e112b700b98d7b905f7f963c0f210f76c8ef462b9ce5d221/3c795015ace9b4ac3c66483649439104eb0a5930c19e4ad4881b2d2c5c702bb8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_field-multiple-value-form.html.twig_d71faaa8fe9ad078c5bc3ae175da1f4f7d9a84aae1ca5786a916837aa2431156/520fd35d585f869bdd27115697c39941d7f4a622fd9ce0387c7c5f0db24a5b83.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_form--search-block-form.html.twig_c660634c0e9d55f2324026f09bed2af235646bcf1ff32ec4625591946b5dd9a9/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_form--search-block-form.html.twig_c660634c0e9d55f2324026f09bed2af235646bcf1ff32ec4625591946b5dd9a9/43c052acb2e54ba03cd12ef7cfef381ad0796b3f8a57218050f947d8181fdbd6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_form-element-label.html.twig_0547b72668743f5a86566d900b3d4d5d13fc5b2f2ea64785985cba0ec6de1317/09baf53c065aee30a92f7f78e1dc628e64da3529c5e09fbb58c80c470fff4bc5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_form-element.html.twig_fc578663ac58b20e77d3e07f3ef2ea783b5a36b4c11aca016f1197095330eb16/28f147fc637b256fdc3e61b1dc069413142dba464abe959da0e34cb99df61d39.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_form.html.twig_2ddce558f66afd90f82610437696ddcd94e15499cdd6c8987038a150a754c1fc/bf60a6767b785e438f949e9e4495b64ea3290ada59246ba21ba9d1a4ba710dcb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_html.html.twig_6bb77a667aa6de64ec457e4b57c416f0fa993942cdde8c17b224e86e10baae78/33f300f2c55ca20208bb9c73b030d60687c6dc1c331740310e5cd155e66fdd88.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_image.html.twig_3cb652d084ac50daeb97d490be5f7081dd4e4c5cce32c90d9a0b10a2f0311275/cef86a85ab98126299868449c76e2e7844a4811335b0615423caaa09c444fb77.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_indentation.html.twig_a87482ad2e3eb0f9534959e109e4bdcec1572f57716c4c1faa97559a7d98edfc/0cd476266b51c0147a92d49342a0725bc4192f1cec207cae7579a692294a83de.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_input.html.twig_c991d1c2d0092cf7658091156e62801d8179c377a37c3ff5923702f06592e9b2/5a2960316f8109be73fa17fb683415a5c721b015f163cc9ece4b0e13789af644.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_item-list.html.twig_69a831604f3502aae03baa19659af50c92d2e3e967655826f81b45e18a328704/7283c4850c486f82abb2af214d83386158b882b7663c459a2f5d404fdd37207b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_links.html.twig_228c33ba783482011ea18760272946dc5639d3241a72c433a70a5ae39e7ba6e6/bd3098099d19300ea0164f31ccf0ca03ca895cd6cc6d3b8be4a87cc7624c934e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_menu--toolbar.html.twig_99f9cbfb2129110a8fc6ef692ac58faad6941ca07649211addacdeff681802d4/83eb0f8d838e9c9eee416bce72f46c419b2e9bd55989cedd4da89d82bbdeba2a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_menu-local-action.html.twig_55ea6ba4195205b3667ebb7af3b53ce1d96934152f4326f4ecdcae1aea4c94bf/8a0b4146856d2948f6bd58608f6f0b82f9e60a5fb1c63d69d09e99cd89085d87.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_menu-local-task.html.twig_7de542724a1bdc8b3bd84ebdfb1643880836c3573c37c5957f7cfb70d3958eac/0c4f88d08258bb8e8839460b3168ffde41ce5d230437274d52fc8d38fcd51935.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_menu-local-tasks.html.twig_3395462609008856855d5c39544b10c29389a6364f85ca1bec254690ed7f174b/0ba4f214703d84e60bd0fa526bd3b164159179e517319b5f7f62cae39196700d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_menu.html.twig_77389b49abae6e274fccd99251e019866f9747b9704256728fd022fbe2efe01f/baf425621f831fb1958fdc922f3cba8ba9fcfc8947c78aff8f93b8427546c88f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_page-title.html.twig_119614077cbe45165930e4fb9f0cc3d96351aeeb311020a12f5674c1eeba6d19/f23acb2920e232468dabb58b98524547a3458dfc158b45d9dd9b1bfc17c4880d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_page-title.html.twig_cb37a33ae389224a5e4f0e9b584a1bed468d7875063e183c697f3fd047f49731/9678b58de8ff16815be248ac68e9a311bab49c89300c6bbba39481db2f5aaa3b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_page.html.twig_3fdada16749c9be144608cb84ffa9ab3a6c6420b5457b501f2afe00f052c251f/1a5cdae4e8e8209e0547745349b3d3096a2784bf8f52ae2c6e8a6c177c635757.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_page.html.twig_562cd06637494edb7f108e04acca34d5407aae07c619eb05b4bec4fb0ad874ed/616a8e5002d85e7225b6ea8306284fba8ed55d37cab4d677bc74513720b2286e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_pager.html.twig_990f0ac62a6d6ad731781869edb558715533115796dc4e244a1263cec220f726/57c709dcf51d447a273152cbabe972bb72b68d87d1a1d77621200a8b817f2c22.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_progress-bar.html.twig_bbb67bc20974aaa119b0e0edfef8345a7dc828ce7a9c5bc2b5c47343d73a8e04/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_progress-bar.html.twig_bbb67bc20974aaa119b0e0edfef8345a7dc828ce7a9c5bc2b5c47343d73a8e04/8d092db25f60629fc26ca1c205af8eb9b3486609d78a9fb48887dfe1d3b7d1c4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_region--header.html.twig_22bbb4c04c6cba62a8294d08004e539dd09bbc512758f056f434e75376df0adc/c38164f7cc2b1089da426111e702b81f56799215028e79b9a5d465866db64a00.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_region.html.twig_311ddf326c3de6a6e9b8316f6f2b88f501e51bf84e82b8fa0d148f094acefd22/b88a91c26de5add75e9614c62093b7a6478a022fa7bdec180e42fed1bf597271.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_region.html.twig_d6e23990ceba1e47655526d66f49d46f04b92fd2902ea8482016f49dde3f2d84/a1f45bf4dddc6efd3be74460eed91956a4d408a5a0a6387498cf7bd9686ba4f5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_select.html.twig_938bc5aab4a9a2bbd2117ccd7bba7b41b5fba47a202cfada114fa6137edebba3/4fc471a650727153194296e6889130f5ead16eb06395fb23aefa7bd57db2ff98.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_status-messages.html.twig_51d8534333633622e7943c39930d181633a11b7c9469020a1992f64ee6923b55/06e5eef9c3d48a03d00c29a642aadc0996cffcb8f2429e353746ad8779764803.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_status-messages.html.twig_ebbc928857300b43a597ec8d6e8d2b89351cf6ccb65cb16021d202eace491c1a/49771d9939ff71d667140e2a8275cc5c578f5dbd51197fc17fd877c07bd641d9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_system-modules-details.html.twig_f92e2a7c74aee5b5940e625842bba6c68ac4aa7f42e06422d5f5a26c146901a9/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_system-modules-details.html.twig_f92e2a7c74aee5b5940e625842bba6c68ac4aa7f42e06422d5f5a26c146901a9/bcb69e89d048c676152f11f06006c647070b53f6ace29639774ca232437b1808.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_table.html.twig_302e53cc5ac6dea8472df26fb21a9801ea2dc10d5b8c274ced382eb79eb2abb0/ba234c857a8c1e0e3f87bf031a27a34ad3f4fde4e219b67d9ca8c3e4c78f15da.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_toolbar.html.twig_1549baf0c45992ef52c8c161cbae512f797daec6c5aab5030bdf21003a64b768/141fc59e09efcadcae0189f053fa7f93ff855ce4fdb06be67cebeb93173500b4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-last-check.html.twig_dc4cde2b673718c38ee8cfa91363544685af8ff5fe2c7b701e1611c1a947dfe9/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-last-check.html.twig_dc4cde2b673718c38ee8cfa91363544685af8ff5fe2c7b701e1611c1a947dfe9/660093f9777c29ffc1a102e994404b5eabdf40ae5f28f698c137aa917219be2f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-project-status.html.twig_3233ac3b0e7ab835ba4a447d1a19930b5f21fb4bb89dbbf5cedc95a607ce87d4/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-project-status.html.twig_3233ac3b0e7ab835ba4a447d1a19930b5f21fb4bb89dbbf5cedc95a607ce87d4/2444e1cda1bef5c6dfe25e247e8300af1205b4375e9febc769aaeeb65c323e78.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-report.html.twig_acca51f8af05144119ab0698851967cef5f7b9b3efcfc40b446aebac32bb7d86/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-report.html.twig_acca51f8af05144119ab0698851967cef5f7b9b3efcfc40b446aebac32bb7d86/63da04b9f118dc7a629f2e92fe0e80daadd36ecc460fb959e5703429cd7e2072.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-version.html.twig_8a0c1b5a3cc0ad861f97c4b3439c51d8a64a227eb3d5360a9f4ba9fbfa7b9fc4/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_update-version.html.twig_8a0c1b5a3cc0ad861f97c4b3439c51d8a64a227eb3d5360a9f4ba9fbfa7b9fc4/9a855c36768926318e2e2213878b97801d8e53b5407855ee536c95dbaf709c91.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/d38d0668_views-view.html.twig_d162353f36131fe4fd9a4e6bb708c6c65015d3ad74a0408e67dc753cdaa0bb86/5df77eca502643797069593d17850837ff3fa2cebf620ccedd6f3b2627d5ff07.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="nkvisoko.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +84,30 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="nkvisoko" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_landing.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/sass/pages/_landing.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/sass/pages/_pages.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,7 +180,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nkvisoko" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nkvisoko" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nkvisoko" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nkvisoko" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -105,6 +235,32 @@
     <property name="settings.editor.splitter.proportion" value="0.27661598" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../inclusive-policy-lab/www" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -121,9 +277,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="27" width="2487" height="1413" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2548215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26220763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -156,5 +312,23 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/sass/pages/_landing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/sass/pages/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

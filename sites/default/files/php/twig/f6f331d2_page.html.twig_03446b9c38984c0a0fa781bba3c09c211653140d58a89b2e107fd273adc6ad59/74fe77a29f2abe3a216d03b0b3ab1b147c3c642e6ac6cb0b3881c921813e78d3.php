@@ -1,7 +1,7 @@
 <?php
 
-/* core/themes/classy/templates/layout/page.html.twig */
-class __TwigTemplate_14910701da0b6e4c22951061ba4ee3413d179d5db0dd926e773020aeb0f51c51 extends Twig_Template
+/* themes/templates/core/page.html.twig */
+class __TwigTemplate_f8565787a3cffee7e3ff1a6aab7a7b4163b3e8b5ac9737f138418906e5fd906a extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {
@@ -15,7 +15,7 @@ class __TwigTemplate_14910701da0b6e4c22951061ba4ee3413d179d5db0dd926e773020aeb0f
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $tags = array("if" => 67);
+        $tags = array("if" => 79);
         $filters = array();
         $functions = array();
 
@@ -42,99 +42,139 @@ class __TwigTemplate_14910701da0b6e4c22951061ba4ee3413d179d5db0dd926e773020aeb0f
         // line 45
         echo "<div class=\"layout-container\">
 
-  <header role=\"banner\">
+  <div class=\"header\">
     ";
         // line 48
         echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "header", array()), "html", null, true));
         echo "
-  </header>
+  </div>
 
-  ";
-        // line 51
+  <div class=\"region-primary-menu \">
+    ";
+        // line 52
         echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "primary_menu", array()), "html", null, true));
         echo "
-  ";
-        // line 52
+  </div>
+
+  <div class=\"region-secondary-menu\">
+    ";
+        // line 56
         echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "secondary_menu", array()), "html", null, true));
         echo "
+  </div>
 
-  ";
-        // line 54
+  <div class=\"region-breadcrumb\">
+    ";
+        // line 60
         echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "breadcrumb", array()), "html", null, true));
         echo "
+  </div>
 
-  ";
-        // line 56
+  <div class=\"region-highlighted\">
+    ";
+        // line 64
         echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "highlighted", array()), "html", null, true));
         echo "
+  </div>
 
-  ";
-        // line 58
+  <div class=\"help-block\">
+    ";
+        // line 68
         echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "help", array()), "html", null, true));
         echo "
+  </div>
+
 
   <main role=\"main\">
     <a id=\"main-content\" tabindex=\"-1\"></a>";
-        // line 62
+        // line 74
         echo "
     <div class=\"layout-content\">
       ";
-        // line 64
+        // line 76
         echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "content", array()), "html", null, true));
         echo "
     </div>";
-        // line 66
+        // line 78
         echo "
     ";
-        // line 67
+        // line 79
         if ($this->getAttribute((isset($context["page"]) ? $context["page"] : null), "sidebar_first", array())) {
-            // line 68
+            // line 80
             echo "      <aside class=\"layout-sidebar-first\" role=\"complementary\">
         ";
-            // line 69
+            // line 81
             echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "sidebar_first", array()), "html", null, true));
             echo "
       </aside>
     ";
         }
-        // line 72
+        // line 84
         echo "
     ";
-        // line 73
+        // line 85
         if ($this->getAttribute((isset($context["page"]) ? $context["page"] : null), "sidebar_second", array())) {
-            // line 74
+            // line 86
             echo "      <aside class=\"layout-sidebar-second\" role=\"complementary\">
         ";
-            // line 75
+            // line 87
             echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "sidebar_second", array()), "html", null, true));
             echo "
       </aside>
     ";
         }
-        // line 78
+        // line 90
         echo "
   </main>
 
   ";
-        // line 81
-        if ($this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer", array())) {
-            // line 82
-            echo "    <footer role=\"contentinfo\">
+        // line 93
+        if ($this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer_first", array())) {
+            // line 94
+            echo "    <div class=\"region-footer-first\">
       ";
-            // line 83
-            echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer", array()), "html", null, true));
+            // line 95
+            echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer_first", array()), "html", null, true));
             echo "
-    </footer>
+    </div>
   ";
         }
-        // line 86
+        // line 98
+        echo "
+  ";
+        // line 99
+        if ($this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer_second", array())) {
+            // line 100
+            echo "    <div class=\"region-footer-second\">
+      ";
+            // line 101
+            echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer_second", array()), "html", null, true));
+            echo "
+    </div>
+  ";
+        }
+        // line 104
+        echo "
+  ";
+        // line 105
+        if ($this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer_third", array())) {
+            // line 106
+            echo "    <div class=\"region-footer-third\">
+        ";
+            // line 107
+            echo $this->env->getExtension('sandbox')->ensureToStringAllowed($this->env->getExtension('drupal_core')->escapeFilter($this->env, $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "footer_third", array()), "html", null, true));
+            echo "
+    </div>
+  ";
+        }
+        // line 110
         echo "
 </div>";
     }
 
     public function getTemplateName()
     {
-        return "core/themes/classy/templates/layout/page.html.twig";
+        return "themes/templates/core/page.html.twig";
     }
 
     public function isTraitable()
@@ -144,7 +184,7 @@ class __TwigTemplate_14910701da0b6e4c22951061ba4ee3413d179d5db0dd926e773020aeb0f
 
     public function getDebugInfo()
     {
-        return array (  131 => 86,  125 => 83,  122 => 82,  120 => 81,  115 => 78,  109 => 75,  106 => 74,  104 => 73,  101 => 72,  95 => 69,  92 => 68,  90 => 67,  87 => 66,  83 => 64,  79 => 62,  73 => 58,  68 => 56,  63 => 54,  58 => 52,  54 => 51,  48 => 48,  43 => 45,);
+        return array (  171 => 110,  165 => 107,  162 => 106,  160 => 105,  157 => 104,  151 => 101,  148 => 100,  146 => 99,  143 => 98,  137 => 95,  134 => 94,  132 => 93,  127 => 90,  121 => 87,  118 => 86,  116 => 85,  113 => 84,  107 => 81,  104 => 80,  102 => 79,  99 => 78,  95 => 76,  91 => 74,  83 => 68,  76 => 64,  69 => 60,  62 => 56,  55 => 52,  48 => 48,  43 => 45,);
     }
 }
 /* {#*/
@@ -193,18 +233,30 @@ class __TwigTemplate_14910701da0b6e4c22951061ba4ee3413d179d5db0dd926e773020aeb0f
 /* #}*/
 /* <div class="layout-container">*/
 /* */
-/*   <header role="banner">*/
+/*   <div class="header">*/
 /*     {{ page.header }}*/
-/*   </header>*/
+/*   </div>*/
 /* */
-/*   {{ page.primary_menu }}*/
-/*   {{ page.secondary_menu }}*/
+/*   <div class="region-primary-menu ">*/
+/*     {{ page.primary_menu }}*/
+/*   </div>*/
 /* */
-/*   {{ page.breadcrumb }}*/
+/*   <div class="region-secondary-menu">*/
+/*     {{ page.secondary_menu }}*/
+/*   </div>*/
 /* */
-/*   {{ page.highlighted }}*/
+/*   <div class="region-breadcrumb">*/
+/*     {{ page.breadcrumb }}*/
+/*   </div>*/
 /* */
-/*   {{ page.help }}*/
+/*   <div class="region-highlighted">*/
+/*     {{ page.highlighted }}*/
+/*   </div>*/
+/* */
+/*   <div class="help-block">*/
+/*     {{ page.help }}*/
+/*   </div>*/
+/* */
 /* */
 /*   <main role="main">*/
 /*     <a id="main-content" tabindex="-1"></a>{# link is in html.html.twig #}*/
@@ -227,10 +279,22 @@ class __TwigTemplate_14910701da0b6e4c22951061ba4ee3413d179d5db0dd926e773020aeb0f
 /* */
 /*   </main>*/
 /* */
-/*   {% if page.footer %}*/
-/*     <footer role="contentinfo">*/
-/*       {{ page.footer }}*/
-/*     </footer>*/
+/*   {% if page.footer_first %}*/
+/*     <div class="region-footer-first">*/
+/*       {{ page.footer_first }}*/
+/*     </div>*/
+/*   {% endif %}*/
+/* */
+/*   {% if page.footer_second %}*/
+/*     <div class="region-footer-second">*/
+/*       {{ page.footer_second }}*/
+/*     </div>*/
+/*   {% endif %}*/
+/* */
+/*   {% if page.footer_third %}*/
+/*     <div class="region-footer-third">*/
+/*         {{ page.footer_third }}*/
+/*     </div>*/
 /*   {% endif %}*/
 /* */
 /* </div>{# /.layout-container #}*/

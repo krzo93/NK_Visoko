@@ -2,65 +2,366 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="134abc24-1356-4068-92da-25d6d7bebef6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--search-form-block.html.twig_ffcd246a54a37f7beea945a328cd8e117d04c0f973b2f9eb9fcf265d6a11c001/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--search-form-block.html.twig_ffcd246a54a37f7beea945a328cd8e117d04c0f973b2f9eb9fcf265d6a11c001/06990277e935dad1dc6a62cffac084fcd0cc9c5ccfa039ce63619ff7b9786252.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--system-branding-block.html.twig_32dd628da382bdab282e50e16f8f72d2ff681598ea68f01b41788c5344d87f30/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--system-branding-block.html.twig_32dd628da382bdab282e50e16f8f72d2ff681598ea68f01b41788c5344d87f30/e5d45502f32b20911d7a4599a45a3de870c1bd7d4cc908eaf7ecc70d7d3c979e.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--system-menu-block.html.twig_975eebe71e926fbb4e347d30260b541054bfb62b87b1b7f494ffe99c8fd8b797/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--system-menu-block.html.twig_975eebe71e926fbb4e347d30260b541054bfb62b87b1b7f494ffe99c8fd8b797/70609784535925332d06ebec637d7321e4ee1d71b369b65ca537718a90abaf57.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--system-messages-block.html.twig_05cf3038a2d7b4bdde801b21ad7758a41df10b512b6e27fccf52596568f61bed/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block--system-messages-block.html.twig_05cf3038a2d7b4bdde801b21ad7758a41df10b512b6e27fccf52596568f61bed/6c5cf5f9fbc0dbfe0ba2e3bf42c5954c4c950c445f07c854faf469bd0e64b909.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block.html.twig_48fc8a09700e00fddf71dace824007c40663fc78aeaa792a039ce0d0fb0a6ec7/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block.html.twig_48fc8a09700e00fddf71dace824007c40663fc78aeaa792a039ce0d0fb0a6ec7/f9c01df4c70347a8464dafc8a6c8b2759ba5ae366b6dbf6ac551651244dee945.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block.html.twig_4947d4a7b29845577e52719b63fd59d6ef65c9d4b6ef39e5333d9f89c2f8c38c/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_block.html.twig_4947d4a7b29845577e52719b63fd59d6ef65c9d4b6ef39e5333d9f89c2f8c38c/1ac07af6695707804f16e1e727d57b3eeadafd8ffc0de8ebcec742a1a142f75a.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_breadcrumb.html.twig_2fc7770e385e461e031399233a5f4c75ca6eef6aebf48f7a6fcefc6e185e2cf9/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_breadcrumb.html.twig_2fc7770e385e461e031399233a5f4c75ca6eef6aebf48f7a6fcefc6e185e2cf9/568e7e28a5768bb09a10461bee6bbb810b815cb6940a00de6014023b5730092f.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_container.html.twig_508eddd4bbf6dd1a8de852bd7e7820e16f4437fef746a6a37849292a885c9fbd/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_container.html.twig_508eddd4bbf6dd1a8de852bd7e7820e16f4437fef746a6a37849292a885c9fbd/ae2d4fc01c845f96587795770702b7b7ee5b5d8f9436f9c0d9bd51d62ea7385c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_feed-icon.html.twig_18b5a7c4d1b47d19e112b700b98d7b905f7f963c0f210f76c8ef462b9ce5d221/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_feed-icon.html.twig_18b5a7c4d1b47d19e112b700b98d7b905f7f963c0f210f76c8ef462b9ce5d221/28481663906683355cc9b64e50e72f8faddc1810363fb7d3024b5969f10559ca.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_form-element-label.html.twig_0547b72668743f5a86566d900b3d4d5d13fc5b2f2ea64785985cba0ec6de1317/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_form-element-label.html.twig_0547b72668743f5a86566d900b3d4d5d13fc5b2f2ea64785985cba0ec6de1317/b0ed1e69bf0e8c490fb3431b133e9fe9ee064aef5967ac0de38372a802f976cc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_form-element.html.twig_fc578663ac58b20e77d3e07f3ef2ea783b5a36b4c11aca016f1197095330eb16/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_form-element.html.twig_fc578663ac58b20e77d3e07f3ef2ea783b5a36b4c11aca016f1197095330eb16/17864ab4c86e9cb7416337ecae154891b569b16e664a19f3a110177b2b25f0ae.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_form.html.twig_2ddce558f66afd90f82610437696ddcd94e15499cdd6c8987038a150a754c1fc/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_form.html.twig_2ddce558f66afd90f82610437696ddcd94e15499cdd6c8987038a150a754c1fc/06963eac0b7ae9b28ecc85e08f432e19033c3d1442caba29eb58854b7afa4a91.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_html.html.twig_6bb77a667aa6de64ec457e4b57c416f0fa993942cdde8c17b224e86e10baae78/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_html.html.twig_6bb77a667aa6de64ec457e4b57c416f0fa993942cdde8c17b224e86e10baae78/d30576029bb1a1fb1d3d7f4fcfdeef78466ae376257f55776d7d3afc2f83ea77.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_input.html.twig_c991d1c2d0092cf7658091156e62801d8179c377a37c3ff5923702f06592e9b2/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_input.html.twig_c991d1c2d0092cf7658091156e62801d8179c377a37c3ff5923702f06592e9b2/e40a81c9d3ebd1002a26624e2b082f279e3b55cf295167437a4d65886934de92.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_links.html.twig_228c33ba783482011ea18760272946dc5639d3241a72c433a70a5ae39e7ba6e6/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_links.html.twig_228c33ba783482011ea18760272946dc5639d3241a72c433a70a5ae39e7ba6e6/45ed71eab7c9d55e236cc8ac70a6df0b0d0b8b82246f49ac995b328f959f218d.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_menu--toolbar.html.twig_99f9cbfb2129110a8fc6ef692ac58faad6941ca07649211addacdeff681802d4/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_menu--toolbar.html.twig_99f9cbfb2129110a8fc6ef692ac58faad6941ca07649211addacdeff681802d4/6f0fc3e071d11689b72ccd4a850cbabfa84d4eeb6b314b43de718c2b1f5a732a.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_menu.html.twig_77389b49abae6e274fccd99251e019866f9747b9704256728fd022fbe2efe01f/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_menu.html.twig_77389b49abae6e274fccd99251e019866f9747b9704256728fd022fbe2efe01f/234a01fbf9181c98adbe6aac07b61bfd79b5cb002b84b33b13082b7deaf9fbd7.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_page-title.html.twig_cb37a33ae389224a5e4f0e9b584a1bed468d7875063e183c697f3fd047f49731/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_page-title.html.twig_cb37a33ae389224a5e4f0e9b584a1bed468d7875063e183c697f3fd047f49731/361f61883ed0e1d87cae2aa90c3576f7128e809e383f138d7a3b54859e537814.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_page.html.twig_03446b9c38984c0a0fa781bba3c09c211653140d58a89b2e107fd273adc6ad59/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_page.html.twig_03446b9c38984c0a0fa781bba3c09c211653140d58a89b2e107fd273adc6ad59/74fe77a29f2abe3a216d03b0b3ab1b147c3c642e6ac6cb0b3881c921813e78d3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_pager.html.twig_990f0ac62a6d6ad731781869edb558715533115796dc4e244a1263cec220f726/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_pager.html.twig_990f0ac62a6d6ad731781869edb558715533115796dc4e244a1263cec220f726/c76fee8221b5dd27d7a9d5ad1c68358c34981cb0ec0bfe667b2c0321e65aec88.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_region.html.twig_d6e23990ceba1e47655526d66f49d46f04b92fd2902ea8482016f49dde3f2d84/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_region.html.twig_d6e23990ceba1e47655526d66f49d46f04b92fd2902ea8482016f49dde3f2d84/ee4e6776cdf2d140d85469300ca0b2915b8b85dc79dd1d56de4f3cacea53347d.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_status-messages.html.twig_51d8534333633622e7943c39930d181633a11b7c9469020a1992f64ee6923b55/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_status-messages.html.twig_51d8534333633622e7943c39930d181633a11b7c9469020a1992f64ee6923b55/9c3b56959b8bc1e90ef580278c6748b46a8cc3c85d9222bb680b6a7e261065d2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_toolbar.html.twig_1549baf0c45992ef52c8c161cbae512f797daec6c5aab5030bdf21003a64b768/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_toolbar.html.twig_1549baf0c45992ef52c8c161cbae512f797daec6c5aab5030bdf21003a64b768/6f76fb034046a763bc80fe47f0f3f6b48659a451bef42999739713d76a68fbf0.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_views-view.html.twig_d162353f36131fe4fd9a4e6bb708c6c65015d3ad74a0408e67dc753cdaa0bb86/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/f6f331d2_views-view.html.twig_d162353f36131fe4fd9a4e6bb708c6c65015d3ad74a0408e67dc753cdaa0bb86/4ae647f8a55f411fd082b2a6dab1a0de38b3ecec5af84605de92088b368f68fa.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/nkvisoko.yml" afterPath="$PROJECT_DIR$/themes/nkvisoko.libraries.yml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DImuuvc9S8V88m4n2WP6xWYIYqktcP21urgDq7ksjK8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DImuuvc9S8V88m4n2WP6xWYIYqktcP21urgDq7ksjK8.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_EXDJi965s0c5VF0i5v9gumbPnE_EMaMzGuMvhRCxki0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_EXDJi965s0c5VF0i5v9gumbPnE_EMaMzGuMvhRCxki0.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_FhrWfcgEZ-D2Y6V0eVWqx2-7zxJbxEEQcSSjsEyXD6M.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_FhrWfcgEZ-D2Y6V0eVWqx2-7zxJbxEEQcSSjsEyXD6M.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GA8nIBKBYqMAszTC_7dgTOYVJa4v0lU0qyjJfNeQx48.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GA8nIBKBYqMAszTC_7dgTOYVJa4v0lU0qyjJfNeQx48.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_oLoewJLPFbWKGXqNDrYRklQWJf2be7iNS1Jd8NBvq-U.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/css/css_oLoewJLPFbWKGXqNDrYRklQWJf2be7iNS1Jd8NBvq-U.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_7S532aP5rN-LSHtBCPLdSGtomEKeEKqHvBuRPR-4KK0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_7S532aP5rN-LSHtBCPLdSGtomEKeEKqHvBuRPR-4KK0.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/settings.php" afterPath="$PROJECT_DIR$/sites/default/settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/development.services.yml" afterPath="$PROJECT_DIR$/sites/development.services.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/example.settings.local.php" afterPath="$PROJECT_DIR$/sites/example.settings.local.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/nkvisoko.info.yml" afterPath="$PROJECT_DIR$/themes/nkvisoko.info.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sass/modules/_header.scss" afterPath="$PROJECT_DIR$/themes/sass/modules/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sass/modules/_navigation.scss" afterPath="$PROJECT_DIR$/themes/sass/modules/_navigation.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sass/pages/_landing.scss" afterPath="$PROJECT_DIR$/themes/sass/pages/_landing.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/templates/core/page.html.twig" afterPath="$PROJECT_DIR$/themes/templates/core/page.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/lib/Drupal.php" afterPath="$PROJECT_DIR$/core/lib/Drupal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/lib/Drupal/Core/EventSubscriber/DefaultExceptionSubscriber.php" afterPath="$PROJECT_DIR$/core/lib/Drupal/Core/EventSubscriber/DefaultExceptionSubscriber.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/action/action.info.yml" afterPath="$PROJECT_DIR$/core/modules/action/action.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/action/tests/action_bulk_test/action_bulk_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/action/tests/action_bulk_test/action_bulk_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/aggregator/aggregator.info.yml" afterPath="$PROJECT_DIR$/core/modules/aggregator/aggregator.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/aggregator/tests/modules/aggregator_test/aggregator_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/aggregator/tests/modules/aggregator_test/aggregator_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/aggregator/tests/modules/aggregator_test_views/aggregator_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/aggregator/tests/modules/aggregator_test_views/aggregator_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/automated_cron/automated_cron.info.yml" afterPath="$PROJECT_DIR$/core/modules/automated_cron/automated_cron.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/ban/ban.info.yml" afterPath="$PROJECT_DIR$/core/modules/ban/ban.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/basic_auth/basic_auth.info.yml" afterPath="$PROJECT_DIR$/core/modules/basic_auth/basic_auth.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/big_pipe/big_pipe.info.yml" afterPath="$PROJECT_DIR$/core/modules/big_pipe/big_pipe.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/big_pipe/tests/modules/big_pipe_regression_test/big_pipe_regression_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/big_pipe/tests/modules/big_pipe_regression_test/big_pipe_regression_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/big_pipe/tests/modules/big_pipe_test/big_pipe_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/big_pipe/tests/modules/big_pipe_test/big_pipe_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/big_pipe/tests/themes/big_pipe_test_theme/big_pipe_test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/big_pipe/tests/themes/big_pipe_test_theme/big_pipe_test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block/block.info.yml" afterPath="$PROJECT_DIR$/core/modules/block/block.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test/block_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test/block_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test/themes/block_test_specialchars_theme/block_test_specialchars_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test/themes/block_test_specialchars_theme/block_test_specialchars_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test/themes/block_test_theme/block_test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test/themes/block_test_theme/block_test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test_views/block_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/block/tests/modules/block_test_views/block_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block_content/block_content.info.yml" afterPath="$PROJECT_DIR$/core/modules/block_content/block_content.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block_content/tests/modules/block_content_test/block_content_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/block_content/tests/modules/block_content_test/block_content_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/block_content/tests/modules/block_content_test_views/block_content_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/block_content/tests/modules/block_content_test_views/block_content_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/book/book.info.yml" afterPath="$PROJECT_DIR$/core/modules/book/book.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/book/tests/modules/book_breadcrumb_test/book_breadcrumb_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/book/tests/modules/book_breadcrumb_test/book_breadcrumb_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/book/tests/modules/book_test/book_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/book/tests/modules/book_test/book_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/breakpoint/breakpoint.info.yml" afterPath="$PROJECT_DIR$/core/modules/breakpoint/breakpoint.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/breakpoint/tests/modules/breakpoint_module_test/breakpoint_module_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/breakpoint/tests/modules/breakpoint_module_test/breakpoint_module_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/breakpoint/tests/themes/breakpoint_theme_test/breakpoint_theme_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/breakpoint/tests/themes/breakpoint_theme_test/breakpoint_theme_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/ckeditor/ckeditor.info.yml" afterPath="$PROJECT_DIR$/core/modules/ckeditor/ckeditor.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/ckeditor/tests/modules/ckeditor_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/ckeditor/tests/modules/ckeditor_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/color/color.info.yml" afterPath="$PROJECT_DIR$/core/modules/color/color.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/color/tests/modules/color_test/color_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/color/tests/modules/color_test/color_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/color/tests/modules/color_test/themes/color_test_theme/color_test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/color/tests/modules/color_test/themes/color_test_theme/color_test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/comment/comment.info.yml" afterPath="$PROJECT_DIR$/core/modules/comment/comment.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/comment/src/CommentFieldItemList.php" afterPath="$PROJECT_DIR$/core/modules/comment/src/CommentFieldItemList.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/comment/src/Tests/CommentNonNodeTest.php" afterPath="$PROJECT_DIR$/core/modules/comment/src/Tests/CommentNonNodeTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/comment/tests/modules/comment_empty_title_test/comment_empty_title_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/comment/tests/modules/comment_empty_title_test/comment_empty_title_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/comment/tests/modules/comment_test/comment_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/comment/tests/modules/comment_test/comment_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/comment/tests/modules/comment_test_views/comment_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/comment/tests/modules/comment_test_views/comment_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/config.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/config.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/config.module" afterPath="$PROJECT_DIR$/core/modules/config/config.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/src/Tests/ConfigExportUITest.php" afterPath="$PROJECT_DIR$/core/modules/config/src/Tests/ConfigExportUITest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_clash_test_theme/config_clash_test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_clash_test_theme/config_clash_test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_collection_clash_install_test/config_collection_clash_install_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_collection_clash_install_test/config_collection_clash_install_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_collection_install_test/config_collection_install_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_collection_install_test/config_collection_install_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_entity_static_cache_test/config_entity_static_cache_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_entity_static_cache_test/config_entity_static_cache_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_events_test/config_events_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_events_test/config_events_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_import_test/config_import_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_import_test/config_import_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_install_dependency_test/config_install_dependency_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_install_dependency_test/config_install_dependency_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_install_fail_test/config_install_fail_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_install_fail_test/config_install_fail_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_integration_test/config_integration_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_integration_test/config_integration_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_other_module_config_test/config_other_module_config_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_other_module_config_test/config_other_module_config_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_override_integration_test/config_override_integration_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_override_integration_test/config_override_integration_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_override_test/config_override_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_override_test/config_override_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_schema_test/config_schema_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_schema_test/config_schema_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_test/config_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_test/config_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config/tests/config_test_language/config_test_language.info.yml" afterPath="$PROJECT_DIR$/core/modules/config/tests/config_test_language/config_test_language.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config_translation/config_translation.info.yml" afterPath="$PROJECT_DIR$/core/modules/config_translation/config_translation.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config_translation/tests/modules/config_translation_test/config_translation_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/config_translation/tests/modules/config_translation_test/config_translation_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/config_translation/tests/themes/config_translation_test_theme/config_translation_test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/config_translation/tests/themes/config_translation_test_theme/config_translation_test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/contact/contact.info.yml" afterPath="$PROJECT_DIR$/core/modules/contact/contact.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/contact/tests/modules/contact_storage_test/contact_storage_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/contact/tests/modules/contact_storage_test/contact_storage_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/contact/tests/modules/contact_test/contact_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/contact/tests/modules/contact_test/contact_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/contact/tests/modules/contact_test_views/contact_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/contact/tests/modules/contact_test_views/contact_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/content_translation/content_translation.info.yml" afterPath="$PROJECT_DIR$/core/modules/content_translation/content_translation.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/content_translation/tests/modules/content_translation_test/content_translation_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/content_translation/tests/modules/content_translation_test/content_translation_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/content_translation/tests/modules/content_translation_test_views/content_translation_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/content_translation/tests/modules/content_translation_test_views/content_translation_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/contextual/contextual.info.yml" afterPath="$PROJECT_DIR$/core/modules/contextual/contextual.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/datetime/datetime.info.yml" afterPath="$PROJECT_DIR$/core/modules/datetime/datetime.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/datetime/tests/modules/datetime_test/datetime_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/datetime/tests/modules/datetime_test/datetime_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/dblog/dblog.info.yml" afterPath="$PROJECT_DIR$/core/modules/dblog/dblog.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/dblog/tests/modules/dblog_test_views/dblog_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/dblog/tests/modules/dblog_test_views/dblog_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/dynamic_page_cache/dynamic_page_cache.info.yml" afterPath="$PROJECT_DIR$/core/modules/dynamic_page_cache/dynamic_page_cache.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/dynamic_page_cache/tests/dynamic_page_cache_test/dynamic_page_cache_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/dynamic_page_cache/tests/dynamic_page_cache_test/dynamic_page_cache_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/editor/editor.info.yml" afterPath="$PROJECT_DIR$/core/modules/editor/editor.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/editor/tests/modules/editor_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/editor/tests/modules/editor_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/entity_reference/entity_reference.info.yml" afterPath="$PROJECT_DIR$/core/modules/entity_reference/entity_reference.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field/field.info.yml" afterPath="$PROJECT_DIR$/core/modules/field/field.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field/tests/modules/field_plugins_test/field_plugins_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/field/tests/modules/field_plugins_test/field_plugins_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field/tests/modules/field_test/field_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/field/tests/modules/field_test/field_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field/tests/modules/field_test_config/field_test_config.info.yml" afterPath="$PROJECT_DIR$/core/modules/field/tests/modules/field_test_config/field_test_config.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field/tests/modules/field_test_views/field_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/field/tests/modules/field_test_views/field_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field/tests/modules/field_third_party_test/field_third_party_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/field/tests/modules/field_third_party_test/field_third_party_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field_ui/field_ui.info.yml" afterPath="$PROJECT_DIR$/core/modules/field_ui/field_ui.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/field_ui/tests/modules/field_ui_test/field_ui_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/field_ui/tests/modules/field_ui_test/field_ui_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/file/file.info.yml" afterPath="$PROJECT_DIR$/core/modules/file/file.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/file/tests/file_module_test/file_module_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/file/tests/file_module_test/file_module_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/file/tests/file_test/file_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/file/tests/file_test/file_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/file/tests/modules/file_test_views/file_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/file/tests/modules/file_test_views/file_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/filter/filter.info.yml" afterPath="$PROJECT_DIR$/core/modules/filter/filter.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/filter/tests/filter_test/filter_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/filter/tests/filter_test/filter_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/filter/tests/filter_test_plugin/filter_test_plugin.info.yml" afterPath="$PROJECT_DIR$/core/modules/filter/tests/filter_test_plugin/filter_test_plugin.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/forum/forum.info.yml" afterPath="$PROJECT_DIR$/core/modules/forum/forum.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/forum/tests/modules/forum_test_views/forum_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/forum/tests/modules/forum_test_views/forum_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/hal/hal.info.yml" afterPath="$PROJECT_DIR$/core/modules/hal/hal.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/help/help.info.yml" afterPath="$PROJECT_DIR$/core/modules/help/help.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/help/tests/modules/help_page_test/help_page_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/help/tests/modules/help_page_test/help_page_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/help/tests/modules/help_test/help_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/help/tests/modules/help_test/help_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/help/tests/modules/more_help_page_test/more_help_page_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/help/tests/modules/more_help_page_test/more_help_page_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/history/history.info.yml" afterPath="$PROJECT_DIR$/core/modules/history/history.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/image/image.info.yml" afterPath="$PROJECT_DIR$/core/modules/image/image.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/image/tests/modules/image_module_test/image_module_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/image/tests/modules/image_module_test/image_module_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/image/tests/modules/image_test_views/image_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/image/tests/modules/image_test_views/image_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/inline_form_errors/inline_form_errors.info.yml" afterPath="$PROJECT_DIR$/core/modules/inline_form_errors/inline_form_errors.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/language/language.info.yml" afterPath="$PROJECT_DIR$/core/modules/language/language.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/language/tests/language_config_override_test/language_config_override_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/language/tests/language_config_override_test/language_config_override_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/language/tests/language_elements_test/language_elements_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/language/tests/language_elements_test/language_elements_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/language/tests/language_test/language_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/language/tests/language_test/language_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/language/tests/test_module/test_module.info.yml" afterPath="$PROJECT_DIR$/core/modules/language/tests/test_module/test_module.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/link/link.info.yml" afterPath="$PROJECT_DIR$/core/modules/link/link.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/link/tests/modules/link_test_views/link_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/link/tests/modules/link_test_views/link_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/locale/locale.info.yml" afterPath="$PROJECT_DIR$/core/modules/locale/locale.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/locale/tests/modules/early_translation_test/early_translation_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/locale/tests/modules/early_translation_test/early_translation_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/locale/tests/modules/locale_test/locale_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/locale/tests/modules/locale_test/locale_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/locale/tests/modules/locale_test_development_release/locale_test_development_release.info.yml" afterPath="$PROJECT_DIR$/core/modules/locale/tests/modules/locale_test_development_release/locale_test_development_release.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/locale/tests/modules/locale_test_translate/locale_test_translate.info.yml" afterPath="$PROJECT_DIR$/core/modules/locale/tests/modules/locale_test_translate/locale_test_translate.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/menu_link_content/menu_link_content.info.yml" afterPath="$PROJECT_DIR$/core/modules/menu_link_content/menu_link_content.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/menu_link_content/tests/menu_link_content_dynamic_route/menu_link_content_dynamic_route.info.yml" afterPath="$PROJECT_DIR$/core/modules/menu_link_content/tests/menu_link_content_dynamic_route/menu_link_content_dynamic_route.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/menu_link_content/tests/outbound_processing_test/outbound_processing_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/menu_link_content/tests/outbound_processing_test/outbound_processing_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/menu_ui/menu_ui.info.yml" afterPath="$PROJECT_DIR$/core/modules/menu_ui/menu_ui.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate/migrate.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate/migrate.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate/tests/modules/migrate_events_test/migrate_events_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate/tests/modules/migrate_events_test/migrate_events_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate/tests/modules/migrate_external_translated_test/migrate_external_translated_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate/tests/modules/migrate_external_translated_test/migrate_external_translated_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate/tests/modules/migrate_prepare_row_test/migrate_prepare_row_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate/tests/modules/migrate_prepare_row_test/migrate_prepare_row_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate_drupal/migrate_drupal.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate_drupal/migrate_drupal.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate_drupal/tests/modules/migrate_cckfield_plugin_manager_test/migrate_cckfield_plugin_manager_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate_drupal/tests/modules/migrate_cckfield_plugin_manager_test/migrate_cckfield_plugin_manager_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate_drupal/tests/modules/migrate_overwrite_test/migrate_overwrite_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate_drupal/tests/modules/migrate_overwrite_test/migrate_overwrite_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/migrate_drupal_ui/migrate_drupal_ui.info.yml" afterPath="$PROJECT_DIR$/core/modules/migrate_drupal_ui/migrate_drupal_ui.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/node.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/node.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/modules/node_access_test/node_access_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/modules/node_access_test/node_access_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/modules/node_access_test_empty/node_access_test_empty.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/modules/node_access_test_empty/node_access_test_empty.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/modules/node_access_test_language/node_access_test_language.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/modules/node_access_test_language/node_access_test_language.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test/node_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test/node_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test_config/node_test_config.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test_config/node_test_config.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test_exception/node_test_exception.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test_exception/node_test_exception.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test_views/node_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/modules/node_test_views/node_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/node/tests/node_access_test_auto_bubbling/node_access_test_auto_bubbling.info.yml" afterPath="$PROJECT_DIR$/core/modules/node/tests/node_access_test_auto_bubbling/node_access_test_auto_bubbling.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/options/options.info.yml" afterPath="$PROJECT_DIR$/core/modules/options/options.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/options/tests/options_config_install_test/options_config_install_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/options/tests/options_config_install_test/options_config_install_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/options/tests/options_test/options_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/options/tests/options_test/options_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/options/tests/options_test_views/options_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/options/tests/options_test_views/options_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/page_cache/page_cache.info.yml" afterPath="$PROJECT_DIR$/core/modules/page_cache/page_cache.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/page_cache/tests/modules/page_cache_form_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/page_cache/tests/modules/page_cache_form_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/path/path.info.yml" afterPath="$PROJECT_DIR$/core/modules/path/path.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/quickedit/quickedit.info.yml" afterPath="$PROJECT_DIR$/core/modules/quickedit/quickedit.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/quickedit/tests/modules/quickedit_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/quickedit/tests/modules/quickedit_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/rdf/rdf.info.yml" afterPath="$PROJECT_DIR$/core/modules/rdf/rdf.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/rdf/tests/rdf_conflicting_namespaces/rdf_conflicting_namespaces.info.yml" afterPath="$PROJECT_DIR$/core/modules/rdf/tests/rdf_conflicting_namespaces/rdf_conflicting_namespaces.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/rdf/tests/rdf_test_namespaces/rdf_test_namespaces.info.yml" afterPath="$PROJECT_DIR$/core/modules/rdf/tests/rdf_test_namespaces/rdf_test_namespaces.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/responsive_image/responsive_image.info.yml" afterPath="$PROJECT_DIR$/core/modules/responsive_image/responsive_image.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/responsive_image/tests/modules/responsive_image_test_module/responsive_image_test_module.info.yml" afterPath="$PROJECT_DIR$/core/modules/responsive_image/tests/modules/responsive_image_test_module/responsive_image_test_module.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/rest/rest.info.yml" afterPath="$PROJECT_DIR$/core/modules/rest/rest.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/rest/tests/modules/rest_test/rest_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/rest/tests/modules/rest_test/rest_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/rest/tests/modules/rest_test_views/rest_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/rest/tests/modules/rest_test_views/rest_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/search/search.info.yml" afterPath="$PROJECT_DIR$/core/modules/search/search.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/search/tests/modules/search_date_query_alter/search_date_query_alter.info.yml" afterPath="$PROJECT_DIR$/core/modules/search/tests/modules/search_date_query_alter/search_date_query_alter.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/search/tests/modules/search_embedded_form/search_embedded_form.info.yml" afterPath="$PROJECT_DIR$/core/modules/search/tests/modules/search_embedded_form/search_embedded_form.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/search/tests/modules/search_extra_type/search_extra_type.info.yml" afterPath="$PROJECT_DIR$/core/modules/search/tests/modules/search_extra_type/search_extra_type.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/search/tests/modules/search_langcode_test/search_langcode_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/search/tests/modules/search_langcode_test/search_langcode_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/search/tests/modules/search_query_alter/search_query_alter.info.yml" afterPath="$PROJECT_DIR$/core/modules/search/tests/modules/search_query_alter/search_query_alter.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/serialization/serialization.info.yml" afterPath="$PROJECT_DIR$/core/modules/serialization/serialization.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/serialization/tests/modules/entity_serialization_test/entity_serialization_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/serialization/tests/modules/entity_serialization_test/entity_serialization_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/serialization/tests/serialization_test/serialization_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/serialization/tests/serialization_test/serialization_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/shortcut/shortcut.info.yml" afterPath="$PROJECT_DIR$/core/modules/shortcut/shortcut.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/simpletest/simpletest.info.yml" afterPath="$PROJECT_DIR$/core/modules/simpletest/simpletest.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/simpletest/tests/modules/phpunit_test/phpunit_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/simpletest/tests/modules/phpunit_test/phpunit_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/simpletest/tests/modules/simpletest_test/simpletest_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/simpletest/tests/modules/simpletest_test/simpletest_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/statistics/statistics.info.yml" afterPath="$PROJECT_DIR$/core/modules/statistics/statistics.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/statistics/tests/modules/statistics_test_views/statistics_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/statistics/tests/modules/statistics_test_views/statistics_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/statistics/tests/themes/statistics_test_attached/statistics_test_attached.info.yml" afterPath="$PROJECT_DIR$/core/modules/statistics/tests/themes/statistics_test_attached/statistics_test_attached.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/syslog/syslog.info.yml" afterPath="$PROJECT_DIR$/core/modules/syslog/syslog.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/system.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/system.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/accept_header_routing_test/accept_header_routing_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/accept_header_routing_test/accept_header_routing_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/action_test/action_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/action_test/action_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/ajax_forms_test/ajax_forms_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/ajax_forms_test/ajax_forms_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/ajax_test/ajax_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/ajax_test/ajax_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/batch_test/batch_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/batch_test/batch_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/cache_test/cache_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/cache_test/cache_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/common_test/common_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/common_test/common_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/common_test_cron_helper/common_test_cron_helper.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/common_test_cron_helper/common_test_cron_helper.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/condition_test/condition_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/condition_test/condition_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/conneg_test/conneg_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/conneg_test/conneg_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/cron_queue_test/cron_queue_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/cron_queue_test/cron_queue_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/database_test/database_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/database_test/database_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/display_variant_test/display_variant_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/display_variant_test/display_variant_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/early_rendering_controller_test/early_rendering_controller_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/early_rendering_controller_test/early_rendering_controller_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_crud_hook_test/entity_crud_hook_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_crud_hook_test/entity_crud_hook_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_reference_test/entity_reference_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_reference_test/entity_reference_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_reference_test_views/entity_reference_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_reference_test_views/entity_reference_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_schema_test/entity_schema_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_schema_test/entity_schema_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test/entity_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test/entity_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test_constraints/entity_test_constraints.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test_constraints/entity_test_constraints.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test_extra/entity_test_extra.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test_extra/entity_test_extra.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test_operation/entity_test_operation.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/entity_test_operation/entity_test_operation.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/error_service_test/error_service_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/error_service_test/error_service_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/error_test/error_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/error_test/error_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/experimental_module_dependency_test/experimental_module_dependency_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/experimental_module_dependency_test/experimental_module_dependency_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/experimental_module_test/experimental_module_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/experimental_module_test/experimental_module_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/form_test/form_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/form_test/form_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/httpkernel_test/httpkernel_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/httpkernel_test/httpkernel_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/image_test/image_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/image_test/image_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/invalid_module_name_over_the_maximum_allowed_character_length/invalid_module_name_over_the_maximum_allowed_character_length.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/invalid_module_name_over_the_maximum_allowed_character_length/invalid_module_name_over_the_maximum_allowed_character_length.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/keyvalue_test/keyvalue_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/keyvalue_test/keyvalue_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/link_generation_test/link_generation_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/link_generation_test/link_generation_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/menu_test/menu_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/menu_test/menu_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/module_autoload_test/module_autoload_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/module_autoload_test/module_autoload_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/module_handler_test_multiple/module_handler_test_multiple.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/module_handler_test_multiple/module_handler_test_multiple.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/module_handler_test_multiple/module_handler_test_multiple_child/module_handler_test_multiple_child.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/module_handler_test_multiple/module_handler_test_multiple_child/module_handler_test_multiple_child.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/module_installer_config_test/module_installer_config_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/module_installer_config_test/module_installer_config_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/module_required_test/module_required_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/module_required_test/module_required_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/module_test/module_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/module_test/module_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/pager_test/pager_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/pager_test/pager_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/paramconverter_test/paramconverter_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/paramconverter_test/paramconverter_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/path_test/path_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/path_test/path_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/plugin_test/plugin_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/plugin_test/plugin_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/plugin_test_extended/plugin_test_extended.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/plugin_test_extended/plugin_test_extended.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/render_attached_test/render_attached_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/render_attached_test/render_attached_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/render_placeholder_message_test/render_placeholder_message_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/render_placeholder_message_test/render_placeholder_message_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/requirements1_test/requirements1_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/requirements1_test/requirements1_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/requirements2_test/requirements2_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/requirements2_test/requirements2_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/router_test_directory/router_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/router_test_directory/router_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/service_provider_test/service_provider_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/service_provider_test/service_provider_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/session_exists_cache_context_test/session_exists_cache_context_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/session_exists_cache_context_test/session_exists_cache_context_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/session_test/session_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/session_test/session_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_dependencies_test/system_dependencies_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_dependencies_test/system_dependencies_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_core_version_dependencies_test/system_incompatible_core_version_dependencies_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_core_version_dependencies_test/system_incompatible_core_version_dependencies_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_core_version_test/system_incompatible_core_version_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_core_version_test/system_incompatible_core_version_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_module_version_dependencies_test/system_incompatible_module_version_dependencies_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_module_version_dependencies_test/system_incompatible_module_version_dependencies_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_module_version_test/system_incompatible_module_version_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_incompatible_module_version_test/system_incompatible_module_version_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_mail_failure_test/system_mail_failure_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_mail_failure_test/system_mail_failure_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_module_test/system_module_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_module_test/system_module_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_project_namespace_test/system_project_namespace_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_project_namespace_test/system_project_namespace_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/system_test/system_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/system_test/system_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/test_page_test/test_page_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/test_page_test/test_page_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_page_test/theme_page_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_page_test/theme_page_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_region_test/theme_region_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_region_test/theme_region_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_suggestions_test/theme_suggestions_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_suggestions_test/theme_suggestions_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_test/theme_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/theme_test/theme_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/token_test/token_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/token_test/token_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/trusted_hosts_test/trusted_hosts_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/trusted_hosts_test/trusted_hosts_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_extension_test/twig_extension_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_extension_test/twig_extension_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_loader_test/twig_loader_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_loader_test/twig_loader_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/modules/twig_namespace_a/twig_namespace_a.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/modules/twig_namespace_a/twig_namespace_a.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/modules/twig_namespace_b/twig_namespace_b.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/modules/twig_namespace_b/twig_namespace_b.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/twig_theme_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/twig_theme_test/twig_theme_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_script_test/update_script_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_script_test/update_script_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_0/update_test_0.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_0/update_test_0.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_1/update_test_1.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_1/update_test_1.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_2/update_test_2.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_2/update_test_2.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_3/update_test_3.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_3/update_test_3.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_failing/update_test_failing.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_failing/update_test_failing.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_invalid_hook/update_test_invalid_hook.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_invalid_hook/update_test_invalid_hook.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_postupdate/update_test_postupdate.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_postupdate/update_test_postupdate.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_schema/update_test_schema.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_schema/update_test_schema.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_with_7x/update_test_with_7x.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/update_test_with_7x/update_test_with_7x.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/modules/url_alter_test/url_alter_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/modules/url_alter_test/url_alter_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/engines/nyan_cat/nyan_cat.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/engines/nyan_cat/nyan_cat.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_basetheme/test_basetheme.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_basetheme/test_basetheme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_ckeditor_stylesheets_external/test_ckeditor_stylesheets_external.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_ckeditor_stylesheets_external/test_ckeditor_stylesheets_external.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_ckeditor_stylesheets_protocol_relative/test_ckeditor_stylesheets_protocol_relative.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_ckeditor_stylesheets_protocol_relative/test_ckeditor_stylesheets_protocol_relative.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_ckeditor_stylesheets_relative/test_ckeditor_stylesheets_relative.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_ckeditor_stylesheets_relative/test_ckeditor_stylesheets_relative.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_basetheme/test_invalid_basetheme.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_basetheme/test_invalid_basetheme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_basetheme_sub/test_invalid_basetheme_sub.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_basetheme_sub/test_invalid_basetheme_sub.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_core/test_invalid_core.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_core/test_invalid_core.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_engine/test_invalid_engine.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_engine/test_invalid_engine.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_region/test_invalid_region.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_invalid_region/test_invalid_region.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_stable/test_stable.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_stable/test_stable.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_subsubtheme/test_subsubtheme.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_subsubtheme/test_subsubtheme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_subtheme/test_subtheme.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_subtheme/test_subtheme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme/test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme/test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_having_veery_long_name_which_is_too_long/test_theme_having_veery_long_name_which_is_too_long.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_having_veery_long_name_which_is_too_long/test_theme_having_veery_long_name_which_is_too_long.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_libraries_extend/test_theme_libraries_extend.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_libraries_extend/test_theme_libraries_extend.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_libraries_override_with_drupal_settings/test_theme_libraries_override_with_drupal_settings.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_libraries_override_with_drupal_settings/test_theme_libraries_override_with_drupal_settings.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_libraries_override_with_invalid_asset/test_theme_libraries_override_with_invalid_asset.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_libraries_override_with_invalid_asset/test_theme_libraries_override_with_invalid_asset.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_nyan_cat_engine/test_theme_nyan_cat_engine.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_nyan_cat_engine/test_theme_nyan_cat_engine.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_twig_registry_loader/test_theme_twig_registry_loader.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_twig_registry_loader/test_theme_twig_registry_loader.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_twig_registry_loader_subtheme/test_theme_twig_registry_loader_subtheme.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_twig_registry_loader_subtheme/test_theme_twig_registry_loader_subtheme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_twig_registry_loader_theme/test_theme_twig_registry_loader_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_theme_twig_registry_loader_theme/test_theme_twig_registry_loader_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/system/tests/themes/test_wild_west/test_wild_west.info.yml" afterPath="$PROJECT_DIR$/core/modules/system/tests/themes/test_wild_west/test_wild_west.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/taxonomy/taxonomy.info.yml" afterPath="$PROJECT_DIR$/core/modules/taxonomy/taxonomy.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/taxonomy/tests/modules/taxonomy_crud/taxonomy_crud.info.yml" afterPath="$PROJECT_DIR$/core/modules/taxonomy/tests/modules/taxonomy_crud/taxonomy_crud.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/taxonomy/tests/modules/taxonomy_term_stub_test/taxonomy_term_stub_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/taxonomy/tests/modules/taxonomy_term_stub_test/taxonomy_term_stub_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/taxonomy/tests/modules/taxonomy_test_views/taxonomy_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/taxonomy/tests/modules/taxonomy_test_views/taxonomy_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/telephone/telephone.info.yml" afterPath="$PROJECT_DIR$/core/modules/telephone/telephone.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/text/text.info.yml" afterPath="$PROJECT_DIR$/core/modules/text/text.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/toolbar/tests/modules/toolbar_disable_user_toolbar/toolbar_disable_user_toolbar.info.yml" afterPath="$PROJECT_DIR$/core/modules/toolbar/tests/modules/toolbar_disable_user_toolbar/toolbar_disable_user_toolbar.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/toolbar/tests/modules/toolbar_test/toolbar_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/toolbar/tests/modules/toolbar_test/toolbar_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/toolbar/toolbar.info.yml" afterPath="$PROJECT_DIR$/core/modules/toolbar/toolbar.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/tour/tests/tour_test/tour_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/tour/tests/tour_test/tour_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/tour/tour.info.yml" afterPath="$PROJECT_DIR$/core/modules/tour/tour.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/tracker/tests/modules/tracker_test_views/tracker_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/tracker/tests/modules/tracker_test_views/tracker_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/tracker/tracker.info.yml" afterPath="$PROJECT_DIR$/core/modules/tracker/tracker.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/tests/aaa_update_test/aaa_update_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/tests/aaa_update_test/aaa_update_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/tests/modules/aaa_update_test/aaa_update_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/tests/modules/aaa_update_test/aaa_update_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/tests/modules/bbb_update_test/bbb_update_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/tests/modules/bbb_update_test/bbb_update_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/tests/modules/ccc_update_test/ccc_update_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/tests/modules/ccc_update_test/ccc_update_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/tests/modules/update_test/update_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/tests/modules/update_test/update_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/tests/themes/update_test_basetheme/update_test_basetheme.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/tests/themes/update_test_basetheme/update_test_basetheme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/tests/themes/update_test_subtheme/update_test_subtheme.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/tests/themes/update_test_subtheme/update_test_subtheme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/update/update.info.yml" afterPath="$PROJECT_DIR$/core/modules/update/update.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/user/tests/modules/user_access_test/user_access_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/user/tests/modules/user_access_test/user_access_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/user/tests/modules/user_custom_phpass_params_test/user_custom_phpass_params_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/user/tests/modules/user_custom_phpass_params_test/user_custom_phpass_params_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/user/tests/modules/user_form_test/user_form_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/user/tests/modules/user_form_test/user_form_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/user/tests/modules/user_hooks_test/user_hooks_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/user/tests/modules/user_hooks_test/user_hooks_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/user/tests/modules/user_test_views/user_test_views.info.yml" afterPath="$PROJECT_DIR$/core/modules/user/tests/modules/user_test_views/user_test_views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/user/tests/themes/user_test_theme/user_test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/user/tests/themes/user_test_theme/user_test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/user/user.info.yml" afterPath="$PROJECT_DIR$/core/modules/user/user.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views/tests/modules/views_entity_test/views_entity_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/views/tests/modules/views_entity_test/views_entity_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_config/views_test_config.info.yml" afterPath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_config/views_test_config.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_data/views_test_data.info.yml" afterPath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_data/views_test_data.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_formatter/views_test_formatter.info.yml" afterPath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_formatter/views_test_formatter.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_language/views_test_language.info.yml" afterPath="$PROJECT_DIR$/core/modules/views/tests/modules/views_test_language/views_test_language.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views/tests/themes/views_test_theme/views_test_theme.info.yml" afterPath="$PROJECT_DIR$/core/modules/views/tests/themes/views_test_theme/views_test_theme.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views/views.info.yml" afterPath="$PROJECT_DIR$/core/modules/views/views.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views_ui/tests/modules/views_ui_test/views_ui_test.info.yml" afterPath="$PROJECT_DIR$/core/modules/views_ui/tests/modules/views_ui_test/views_ui_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/views_ui/views_ui.info.yml" afterPath="$PROJECT_DIR$/core/modules/views_ui/views_ui.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/minimal/minimal.info.yml" afterPath="$PROJECT_DIR$/core/profiles/minimal/minimal.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/standard/standard.info.yml" afterPath="$PROJECT_DIR$/core/profiles/standard/standard.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info.yml" afterPath="$PROJECT_DIR$/core/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/testing/testing.info.yml" afterPath="$PROJECT_DIR$/core/profiles/testing/testing.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/testing_config_import/testing_config_import.info.yml" afterPath="$PROJECT_DIR$/core/profiles/testing_config_import/testing_config_import.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/testing_config_overrides/testing_config_overrides.info.yml" afterPath="$PROJECT_DIR$/core/profiles/testing_config_overrides/testing_config_overrides.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/testing_multilingual/testing_multilingual.info.yml" afterPath="$PROJECT_DIR$/core/profiles/testing_multilingual/testing_multilingual.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/profiles/testing_multilingual_with_english/testing_multilingual_with_english.info.yml" afterPath="$PROJECT_DIR$/core/profiles/testing_multilingual_with_english/testing_multilingual_with_english.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test/module_handler_test.info.yml" afterPath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test/module_handler_test.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_added/module_handler_test_added.info.yml" afterPath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_added/module_handler_test_added.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_all1/module_handler_test_all1.info.yml" afterPath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_all1/module_handler_test_all1.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_all2/module_handler_test_all2.info.yml" afterPath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_all2/module_handler_test_all2.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_no_hook/module_handler_test_no_hook.info.yml" afterPath="$PROJECT_DIR$/core/tests/Drupal/Tests/Core/Extension/modules/module_handler_test_no_hook/module_handler_test_no_hook.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/themes/bartik/bartik.info.yml" afterPath="$PROJECT_DIR$/core/themes/bartik/bartik.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/themes/classy/classy.info.yml" afterPath="$PROJECT_DIR$/core/themes/classy/classy.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/themes/engines/twig/twig.info.yml" afterPath="$PROJECT_DIR$/core/themes/engines/twig/twig.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/themes/seven/seven.info.yml" afterPath="$PROJECT_DIR$/core/themes/seven/seven.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/themes/stable/stable.info.yml" afterPath="$PROJECT_DIR$/core/themes/stable/stable.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/themes/stark/stark.info.yml" afterPath="$PROJECT_DIR$/core/themes/stark/stark.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/contrib/mefibs/LICENSE.txt" afterPath="$PROJECT_DIR$/modules/contrib/mefibs/LICENSE.txt" />
     </list>
     <ignored path="nkvisoko.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,18 +386,8 @@
       <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/templates/core/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0557768">
+            <state vertical-scroll-proportion="1.0921409">
               <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nkvisoko.libraries.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/nkvisoko.libraries.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -165,7 +456,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,9 +474,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nkvisoko" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nkvisoko" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,13 +553,13 @@
     <frame x="73" y="-5" width="2487" height="1445" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26672137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.284366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925898" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18716578" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39037433" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -283,53 +588,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/templates/core/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/nkvisoko.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/templates/core/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/templates/core/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/sass/pages/_landing.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/templates/core/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/nkvisoko.info.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -612,11 +870,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/templates/core/page.html.twig">
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity/src/EntityViewBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0557768">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity/entity.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity/config/schema/entity.schema.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -624,6 +895,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Config/PreExistingConfigException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1805227">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity/entity.views.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51306415">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity/entity.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity/entity.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48214287">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/entity_reference_revisions/entity_reference_revisions.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.042755343">
+          <caret line="192" column="21" selection-start-line="192" selection-start-column="21" selection-end-line="192" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/templates/core/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0921409">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
           <folding />
         </state>
       </provider>

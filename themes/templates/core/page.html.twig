@@ -42,66 +42,69 @@
  * @see html.html.twig
  */
 #}
-  <div class="header">
-    {{ page.header }}
-  </div>
+<div class="header">
+    <div class="container">
+        {{ page.header }}
+    </div>
+</div>
 
-  <div class="region-primary-menu dropdown-main_menu">
-    {{ page.primary_menu }}
-  </div>
+<div class="region-primary-menu dropdown-menu">
+    <div class="container">
+        {{ page.primary_menu }}
+    </div>
+</div>
 
-  <div class="region-secondary-menu">
+<div class="region-secondary-menu">
     {{ page.secondary_menu }}
-  </div>
+</div>
 
-  <div class="region-breadcrumb">
+<div class="region-breadcrumb">
     {{ page.breadcrumb }}
-  </div>
+</div>
 
-  <div class="region-highlighted">
+<div class="region-highlighted">
     {{ page.highlighted }}
-  </div>
+</div>
 
-  <div class="help-block">
+<div class="help-block">
     {{ page.help }}
-  </div>
+</div>
 
 
-  <main role="main">
+<main role="main">
     <a id="main-content" tabindex="-1"></a>{# link is in html.html.twig #}
 
     <div class="layout-content">
-      {{ page.content }}
+        <div class="container">
+            {{ page.content }}
+        </div>
     </div>{# /.layout-content #}
 
     {% if page.sidebar_first %}
-      <aside class="layout-sidebar-first" role="complementary">
-        {{ page.sidebar_first }}
-      </aside>
+        <aside class="layout-sidebar-first" role="complementary">
+            {{ page.sidebar_first }}
+        </aside>
     {% endif %}
 
-    {% if page.sidebar_second %}
-      <aside class="layout-sidebar-second" role="complementary">
-        {{ page.sidebar_second }}
-      </aside>
-    {% endif %}
 
-  </main>
+</main>
 
-  {% if page.footer_first %}
-    <div class="region-footer-first">
-      {{ page.footer_first }}
+<div class="footer">
+    <div class="footer_first">
+        <div class="container">
+            <div class="footer__left">
+                <h5 class="tax_number">DAVČNA ŠTEVILKA: 35863528</h5>
+                <h5 class="registration_number">MATIČNA ŠTEVILKA: 5189829</h5>
+            </div>
+
+            <div class="footer__image"><img typeof="foaf:Image" src="/themes/assets/images/icons/logo_footer.png"
+                                            class="footer_logo"></div>
+
+            <div class="footer__right">
+                <h5 class="bank_acc_number">TRR: 0700-0000-0502-938</h5>
+                <h5 class="bank_name">Gorenjska banka, d.d., Kranj</h5>
+            </div>
+        </div>
     </div>
-  {% endif %}
+</div>
 
-  {% if page.footer_second %}
-    <div class="region-footer-second">
-      {{ page.footer_second }}
-    </div>
-  {% endif %}
-
-  {% if page.footer_third %}
-    <div class="region-footer-third">
-        {{ page.footer_third }}
-    </div>
-  {% endif %}

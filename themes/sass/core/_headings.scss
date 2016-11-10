@@ -1,0 +1,42 @@
+/* ==========================================================================
+   Headings
+   ========================================================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $primary-font-stack;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+h1,.h1
+{
+  @include font-size(36px,36px);
+  letter-spacing:.10px;
+}
+
+h2,.h2 {
+  @include font-size(24px, 24px);
+  letter-spacing: .5px;
+}
+
+h3,.h3
+{
+  @include font-size(18px,36px);
+  text-transform: uppercase;
+  letter-spacing:.5px;
+}
+
+h4,.h4
+{
+  @include font-size(18px,36px);
+}
+
+.views-field-field-naslov-novice {
+
+  font-size: 24px;
+  color: firebrick;
+  float: left;
+  padding-right: 20px;
+}
+
+

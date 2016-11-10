@@ -6,5 +6,42 @@
 // ========================================
 
 .footer {
-
 }
+
+.footer_first {
+  background-color: $color-primary-green;
+  padding: 40px 0;
+  h5 {
+    text-align: center;
+    font-size: 13px;
+    color: $color-white;
+  }
+  .footer__left,
+  .footer__right,
+  .footer__image {
+    float: left;
+    padding-left: $grid-gutter;
+    padding-right: $grid-gutter;
+    position: relative;
+    width: 33%;
+  }
+  .footer__left,
+  .footer__right{
+    border-top: 2px solid $color-white;
+  }
+
+  .tax_number,
+  .registration_number,
+  .bank_acc_number,
+  .bank_name{
+    width: 50%;
+    float: left;
+  }
+  img.footer_logo{
+    max-width: 100px;
+    display: block;
+    margin: auto;
+  }
+}
+
+

@@ -1,0 +1,5 @@
+name: NKVisoko global
+type: module
+description: 'NK Visoko for Drupal Staff'
+package: Custom
+core: 8.x

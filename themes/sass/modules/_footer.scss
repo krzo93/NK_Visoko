@@ -25,10 +25,6 @@
     position: relative;
     width: 33%;
   }
-  .footer__left,
-  .footer__right{
-    border-top: 2px solid $color-white;
-  }
 
   .tax_number,
   .registration_number,
@@ -41,6 +37,9 @@
     max-width: 100px;
     display: block;
     margin: auto;
+  }
+  .border_footer{
+    border-top: 2px $color-white solid;
   }
 }
 

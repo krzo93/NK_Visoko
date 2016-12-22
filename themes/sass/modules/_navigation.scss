@@ -9,19 +9,23 @@
 
 }
 
-#block-nkvisoko-main-menu{
+.region-primary-menu{
   ul{
     li{
-      padding:10px;
+
+      padding:10px 20px;
       display: inline-block;
-      background: $color-primary-grey;
+      background: $color-primary-green;
       &:hover {
-        background-color: $color-primary-green;
+        background-color: $color-white;
       }
       a {
+        font-family: $primary-font-stack;
+        color: $color-white;
         text-decoration: none;
         &:hover {
-        text-decoration: underline;
+          color: $color-primary-green;
+          text-decoration: underline;
       }
       }
     }

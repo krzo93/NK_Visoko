@@ -1,10 +1,10 @@
 <?php
 
-
+use \Drupal\Core\FileTransfer\Form;
 /**
  * Implements hook_form_alter
  */
-function nkvisoko_global_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id) {
+function nkvisoko_global_form_alter(&$form, FormStateInterface $form_state, $form_id) {
 
   if ($form_id == "node-staff-form" || $form_id == "node-staff-edit-form") {
     $form['field_end_date']['#states'] = array(
@@ -15,3 +15,4 @@ function nkvisoko_global_form_alter(&$form, \Drupal\Core\Form\FormStateInterface
     $form['field_end_date']['widget'][0]['#required'] = true;
   }
 }
+

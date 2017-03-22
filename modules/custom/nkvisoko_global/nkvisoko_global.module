@@ -1,12 +1,12 @@
 <?php
 
-use \Drupal\Core\FileTransfer\Form;
+use \Drupal\Core\Form\FormStateInterface;
 /**
  * Implements hook_form_alter
  */
 function nkvisoko_global_form_alter(&$form, FormStateInterface $form_state, $form_id) {
 
-  if ($form_id == "node-staff-form" || $form_id == "node-staff-edit-form") {
+  if ($form_id == "node_events_form" || $form_id == "node_events_edit_form") {
     $form['field_end_date']['#states'] = array(
       'visible' => array(
         '.field--name-field-more-than-one-day input' => array('checked' => true)

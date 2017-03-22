@@ -2,6 +2,7 @@
 name: NK Visoko
 type: theme
 description: NK Visoko drupal theme.
+base theme: classy
 core: 8.x
 version: 1.x
 

@@ -31,11 +31,10 @@ h4,.h4
   @include font-size(18px,36px);
 }
 
-.views-field-field-naslov-novice {
-  font-size: 24px;
-  color: firebrick;
-  float: left;
-  padding-right: 20px;
+p {
+  font-family: $primary-font-stack;
+  font-weight: 800;
+  letter-spacing: 0.7px;
 }
 
 

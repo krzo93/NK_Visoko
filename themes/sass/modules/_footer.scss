@@ -8,39 +8,63 @@
 .footer {
 }
 
-.footer_first {
-  background-color: $color-primary-green;
-  padding: 40px 0;
-  h5 {
-    text-align: center;
-    font-size: 13px;
-    color: $color-white;
-  }
-  .footer__left,
-  .footer__right,
-  .footer__image {
-    float: left;
-    padding-left: $grid-gutter;
-    padding-right: $grid-gutter;
-    position: relative;
-    width: 33%;
-  }
+.footer-border {
+  margin: 0px 50px;
+  border-top: 2px $color-primary-green solid;
+}
 
-  .tax_number,
-  .registration_number,
-  .bank_acc_number,
-  .bank_name{
-    width: 50%;
-    float: left;
-  }
-  img.footer_logo{
-    max-width: 100px;
-    display: block;
-    margin: auto;
-  }
-  .border_footer{
-    border-top: 2px $color-white solid;
+.footer-first {
+  margin-top: 40px;
+  background-color: $color-white;
+  height: 150px;
+  .config_pages--type--footer {
+    display: flex;
+    align-items: center;
+    .field--name-field-davcna-stevilka,
+    .field--name-field-maticna-stevilka,
+    .field--name-field-maticna-stevilka,
+    .field--name-field-logo,
+    .field--name-field-trr,
+    .field--name-field-banka {
+      float: left;
+      padding-left: $grid-gutter;
+      padding-right: $grid-gutter;
+      text-align: center;
+      font-size: 16px;
+      font-weight: 500;
+      width: 20%;
+      color: $color-primary-green;
+      font-family: $primary-font-stack;
+    }
+    .field--name-field-davcna-stevilka,
+    .field--name-field-maticna-stevilka {
+    }
+    .field--name-field-logo {
+      img {
+        max-width: 100px;
+        display: block;
+        margin: auto;
+      }
+    }
   }
 }
 
+.footer-bottom {
+  bottom: 0;
+  .config_pages--type--footer-bottom {
+    display: table;
+    width: 100%;
+    font-size: 13px;
+    background-color: $color-primary-green;
+    color: $color-white;
+    height: 30px;
+    font-weight: 800;
+  }
 
+  .field--name-field-footer-bottom-info {
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    padding: 10px 0;
+  }
+}

@@ -9,21 +9,28 @@
 // Base font size
 // - - - - - - - - - - - - - - - - - - - -
 $base-font-size: 16px;
+$base-font-players: 20px;
+$base-font-news: 15px;
 
 // - - - - - - - - - - - - - - - - - - - -
 // Colors
 // - - - - - - - - - - - - - - - - - - - -
 $color-white: white;
 $color-black: black;
-$color-primary-green: #00733A;
-$color-primary-blue: blue;
-$color-primary-grey: grey;
+//monochromatic colors
+
+$color-primary-green: #00A860;
+$color-monochromatic-green-1: #00F48C;
+$color-monochromatic-green-2: #37B680;
+$color-monochromatic-green-3: #49F4AB;
+$color-monochromatic-green-4: #007543;
+$color-primary-grey: #C0C0C0;
 
 // - - - - - - - - - - - - - - - - - - - -
 // Fonts
 // - - - - - - - - - - - - - - - - - - - -
 $font-open-sans: 'Open Sans', sans-serif;
-$primary-font-stack: 'Bookman Old Style', sans-serif;
+$primary-font-stack: 'Lato', sans-serif;
 
 // - - - - - - - - - - - - - - - - - - - -
 // Grid

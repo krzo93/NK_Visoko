@@ -11,5 +11,7 @@ global-js:
   js:
     assets/scripts/application.js: {}
   dependencies:
-    - core/jquery
     - core/jquery.once
+    - core/jquery
+    - core/drupal
+    - core/drupal.ajax

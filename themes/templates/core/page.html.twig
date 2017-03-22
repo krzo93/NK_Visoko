@@ -42,70 +42,66 @@
  * @see html.html.twig
  */
 #}
-<div class="header">
-    <div class="container">
-        {{ page.header }}
-    </div>
-</div>
-
-<div class="region-primary-menu dropdown-menu">
-    <div class="container">
-        {{ page.primary_menu }}
-    </div>
-</div>
-
-<div class="region-secondary-menu">
-    {{ page.secondary_menu }}
-</div>
-
-<div class="region-breadcrumb">
-    {{ page.breadcrumb }}
-</div>
-
-<div class="region-highlighted">
-    {{ page.highlighted }}
-</div>
-
-<div class="help-block">
-    {{ page.help }}
-</div>
-
-
-<main role="main">
-    <a id="main-content" tabindex="-1"></a>{# link is in html.html.twig #}
-
-    <div class="layout-content">
-        <div class="container">
-            {{ page.content }}
+<div class="layout-container">
+    <div class="header">
+        <div class="logo">
+            <a href="/" title="Športno društvo visoko">
+                <img typeof="foaf:Image" src="/themes/assets/images/icons/logo_header.png" class="header-logo">
+            </a>
         </div>
-    </div>{# /.layout-content #}
-
-    {% if page.sidebar_first %}
-        <aside class="layout-sidebar-first" role="complementary">
-            {{ page.sidebar_first }}
-        </aside>
-    {% endif %}
-
-
-</main>
-
-<div class="footer">
-    <div class="footer_first">
-        <div class="container">
-           <div class="border_footer">
-               <div class="footer__left">
-                   <h5 class="tax_number">DAVČNA ŠTEVILKA: 35863528</h5>
-                   <h5 class="registration_number">MATIČNA ŠTEVILKA: 5189829</h5>
-               </div>
-
-               <div class="footer__image"><img typeof="foaf:Image" src="/themes/assets/images/icons/logo_footer.png"
-                                               class="footer_logo"></div>
-
-               <div class="footer__right">
-                   <h5 class="bank_acc_number">TRR: 0700-0000-0502-938</h5>
-                   <h5 class="bank_name">Gorenjska banka, d.d., Kranj</h5>
-               </div>
-           </div>
+        <div class="region-primary-menu dropdown-menu">
+            {{ page.primary_menu }}
         </div>
+    </div>
+
+
+    <div class="region-secondary-menu">
+        {{ page.secondary_menu }}
+    </div>
+
+    <div class="region-breadcrumb">
+        {{ page.breadcrumb }}
+    </div>
+
+    <div class="region-highlighted">
+        {{ page.highlighted }}
+    </div>
+
+    <div class="help-block">
+        {{ page.help }}
+    </div>
+
+
+    <main role="main">
+        <a id="main-content" tabindex="-1"></a>{# link is in html.html.twig #}
+
+        <div class="layout-content">
+            <div class="container">
+                {{ page.content }}
+            </div>
+        </div>{# /.layout-content #}
+
+        {% if page.sidebar_first %}
+            <aside class="layout-sidebar-first" role="complementary">
+                {{ page.sidebar_first }}
+            </aside>
+        {% endif %}
+
+
+    </main>
+
+    <div class="footer-info">
+        <div class="footer-border"></div>
+        {% if page.footer_first %}
+            <div class="footer-first">
+                {{ page.footer_first }}
+            </div>
+        {% endif %}
+
+        {% if page.footer_second %}
+            <div class="footer-bottom">
+                {{ page.footer_second }}
+            </div>
+        {% endif %}
     </div>
 </div>

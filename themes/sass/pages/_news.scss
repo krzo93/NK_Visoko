@@ -1,0 +1,44 @@
+.block-system-main-block .news,
+.block-views-blocknews-block-1 .news,
+.block-views-blocknews-block-2 .news {
+  .views-row {
+    float: left;
+    padding-right: 15px;
+    width: 20%;
+    div {
+      max-width: 200px;
+    }
+  }
+  .news-title {
+    position: absolute;
+    top: 0;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  .field--name-title {
+    @extend .font-size-news-title;
+    color: $color-white
+  }
+  .news-date {
+    font-size: 14px;
+    position: absolute;
+    bottom: 0;
+  }
+  .field--name-field-events-football-category {
+    position: relative;
+    background-color: rgba(0, 0, 0, 1);
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    top: -33px;
+    font-size: 12px;
+  }
+
+  .field--name-field-lead-image{
+    position: relative;
+    img {
+      width: 100%;
+    }
+
+  }
+}

@@ -93,9 +93,11 @@
     <div{{ content_attributes }}>
         {{ content }}
         <h2{{ title_attributes }}>
-            <div class="player-box">
-                {{ label }}
-            </div>
+            <a href="{{ node.id }}">
+                <div class="player-box">
+                    {{ label }}
+                </div>
+            </a>
 
         </h2>
     </div>

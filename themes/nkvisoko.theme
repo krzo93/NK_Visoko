@@ -1,1 +1,5 @@
 <?php
+
+function nkvisoko_preprocess_node(&$variables) {
+$t = 1;
+}
